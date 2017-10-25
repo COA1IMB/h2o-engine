@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ai.h2o:google-analytics-java:1.1.2-H2O-CUSTOM">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ai/h2o/google-analytics-java/1.1.2-H2O-CUSTOM/google-analytics-java-1.1.2-H2O-CUSTOM.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ai/h2o/google-analytics-java/1.1.2-H2O-CUSTOM/google-analytics-java-1.1.2-H2O-CUSTOM-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ai/h2o/google-analytics-java/1.1.2-H2O-CUSTOM/google-analytics-java-1.1.2-H2O-CUSTOM-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
